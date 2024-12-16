@@ -1,0 +1,26 @@
+.left-div{
+    float: left;
+    width:49%;
+    border:4px solid black;
+    font-size: 30px;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.right-div{
+    float:right;
+    width:50%;
+    border:4px solid black;
+    font-size:30px;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.middle-div{
+    float:left;
+    width:49%;
+    border:4px solid black;
+    font-size:30px;
+    background-color: blueviolet;
+    text-align: center;
+}
